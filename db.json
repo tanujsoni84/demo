@@ -1,14 +1,44 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "Id": 101,
+    "Name": "Levi",
+    "Company": "Rutrum Lorem Ac LLC",
+    "email": "aliquet@tinciduntcongueturpis.net",
+    "type": "vulputate, risus a ultricies adipiscing,"
+  },
+  {
+    "Id": 290,
+    "Name": "Kibo",
+    "Company": "Sapien Cras Limited",
+    "email": "urna.et.arcu@velitCras.com",
+    "type": "quam, elementum at, egestas a, scelerisque sed, sapien. Nunc"
+  },
+  {
+    "Id": 1003,
+    "Name": "Dai",
+    "Company": "Bibendum Fermentum Industries",
+    "email": "dapibus@eleifendnondapibus.ca",
+    "type": "odio a purus. Duis elementum, dui quis accumsan convallis,"
+  },
+  {
+    "Id": 800,
+    "Name": "Elvis",
+    "Company": "Aenean Company",
+    "email": "eget.venenatis.a@tellus.net",
+    "type": "varius ultrices, mauris ipsum"
+  },
+  {
+    "Id": 1011,
+    "Name": "Emerald",
+    "Company": "Ac Associates",
+    "email": "sem@nibh.ca",
+    "type": "condimentum eget, volutpat ornare, facilisis eget, ipsum. Donec"
+  },
+  {
+    "Id": 190,
+    "Name": "Wyatt",
+    "Company": "Nullam Vitae Diam Incorporated",
+    "email": "lobortis@orciquis.org",
+    "type": "arcu. Curabitur ut odio vel est tempor bibendum. Donec felis"
   }
-}
+]
